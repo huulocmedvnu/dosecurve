@@ -1,0 +1,8 @@
+tools/dosecurve/target*/
+cache/
+ext/
+sim/
+out/
+*.h5ad
+.DS_Store
+__pycache__/

@@ -1,0 +1,100 @@
+weak_g1_spread_t0_s1 2 2 0 1 1 0.3 300
+weak_g1_spread_t0.3_s1 2 2 0.3 1 1 0.3 300
+weak_g1_spread_t0.6_s1 2 2 0.6 1 1 0.3 300
+weak_g1_moder_t0_s1 4 1.5 0 1 1 0.3 300
+weak_g1_moder_t0.3_s1 4 1.5 0.3 1 1 0.3 300
+weak_g1_moder_t0.6_s1 4 1.5 0.6 1 1 0.3 300
+weak_g1_high_t0_s1 15 1.5 0 1 1 0.3 300
+weak_g1_high_t0.3_s1 15 1.5 0.3 1 1 0.3 300
+weak_g1_high_t0.6_s1 15 1.5 0.6 1 1 0.3 300
+weak_g1_extreme_t0_s1 40 1 0 1 1 0.3 300
+weak_g1_extreme_t0.3_s1 40 1 0.3 1 1 0.3 300
+weak_g1_extreme_t0.6_s1 40 1 0.6 1 1 0.3 300
+weak_g1_spread_t0_s2 2 2 0 1 2 0.3 300
+weak_g1_spread_t0.3_s2 2 2 0.3 1 2 0.3 300
+weak_g1_spread_t0.6_s2 2 2 0.6 1 2 0.3 300
+weak_g1_moder_t0_s2 4 1.5 0 1 2 0.3 300
+weak_g1_moder_t0.3_s2 4 1.5 0.3 1 2 0.3 300
+weak_g1_moder_t0.6_s2 4 1.5 0.6 1 2 0.3 300
+weak_g1_high_t0_s2 15 1.5 0 1 2 0.3 300
+weak_g1_high_t0.3_s2 15 1.5 0.3 1 2 0.3 300
+weak_g1_high_t0.6_s2 15 1.5 0.6 1 2 0.3 300
+weak_g1_extreme_t0_s2 40 1 0 1 2 0.3 300
+weak_g1_extreme_t0.3_s2 40 1 0.3 1 2 0.3 300
+weak_g1_extreme_t0.6_s2 40 1 0.6 1 2 0.3 300
+medium_g1_spread_t0_s1 2 2 0 1 1 0.5 300
+medium_g1_spread_t0.3_s1 2 2 0.3 1 1 0.5 300
+medium_g1_spread_t0.6_s1 2 2 0.6 1 1 0.5 300
+medium_g1_moder_t0_s1 4 1.5 0 1 1 0.5 300
+medium_g1_moder_t0.3_s1 4 1.5 0.3 1 1 0.5 300
+medium_g1_moder_t0.6_s1 4 1.5 0.6 1 1 0.5 300
+medium_g1_high_t0_s1 15 1.5 0 1 1 0.5 300
+medium_g1_high_t0.3_s1 15 1.5 0.3 1 1 0.5 300
+medium_g1_high_t0.6_s1 15 1.5 0.6 1 1 0.5 300
+medium_g1_extreme_t0_s1 40 1 0 1 1 0.5 300
+medium_g1_extreme_t0.3_s1 40 1 0.3 1 1 0.5 300
+medium_g1_extreme_t0.6_s1 40 1 0.6 1 1 0.5 300
+medium_g1_spread_t0_s2 2 2 0 1 2 0.5 300
+medium_g1_spread_t0.3_s2 2 2 0.3 1 2 0.5 300
+medium_g1_spread_t0.6_s2 2 2 0.6 1 2 0.5 300
+medium_g1_moder_t0_s2 4 1.5 0 1 2 0.5 300
+medium_g1_moder_t0.3_s2 4 1.5 0.3 1 2 0.5 300
+medium_g1_moder_t0.6_s2 4 1.5 0.6 1 2 0.5 300
+medium_g1_high_t0_s2 15 1.5 0 1 2 0.5 300
+medium_g1_high_t0.3_s2 15 1.5 0.3 1 2 0.5 300
+medium_g1_high_t0.6_s2 15 1.5 0.6 1 2 0.5 300
+medium_g1_extreme_t0_s2 40 1 0 1 2 0.5 300
+medium_g1_extreme_t0.3_s2 40 1 0.3 1 2 0.5 300
+medium_g1_extreme_t0.6_s2 40 1 0.6 1 2 0.5 300
+strong_g1_spread_t0_s1 2 2 0 1 1 0.3 2500
+strong_g1_spread_t0.3_s1 2 2 0.3 1 1 0.3 2500
+strong_g1_spread_t0.6_s1 2 2 0.6 1 1 0.3 2500
+strong_g1_moder_t0_s1 4 1.5 0 1 1 0.3 2500
+strong_g1_moder_t0.3_s1 4 1.5 0.3 1 1 0.3 2500
+strong_g1_moder_t0.6_s1 4 1.5 0.6 1 1 0.3 2500
+strong_g1_high_t0_s1 15 1.5 0 1 1 0.3 2500
+strong_g1_high_t0.3_s1 15 1.5 0.3 1 1 0.3 2500
+strong_g1_high_t0.6_s1 15 1.5 0.6 1 1 0.3 2500
+strong_g1_extreme_t0_s1 40 1 0 1 1 0.3 2500
+strong_g1_extreme_t0.3_s1 40 1 0.3 1 1 0.3 2500
+strong_g1_extreme_t0.6_s1 40 1 0.6 1 1 0.3 2500
+strong_g1_spread_t0_s2 2 2 0 1 2 0.3 2500
+strong_g1_spread_t0.3_s2 2 2 0.3 1 2 0.3 2500
+strong_g1_spread_t0.6_s2 2 2 0.6 1 2 0.3 2500
+strong_g1_moder_t0_s2 4 1.5 0 1 2 0.3 2500
+strong_g1_moder_t0.3_s2 4 1.5 0.3 1 2 0.3 2500
+strong_g1_moder_t0.6_s2 4 1.5 0.6 1 2 0.3 2500
+strong_g1_high_t0_s2 15 1.5 0 1 2 0.3 2500
+strong_g1_high_t0.3_s2 15 1.5 0.3 1 2 0.3 2500
+strong_g1_high_t0.6_s2 15 1.5 0.6 1 2 0.3 2500
+strong_g1_extreme_t0_s2 40 1 0 1 2 0.3 2500
+strong_g1_extreme_t0.3_s2 40 1 0.3 1 2 0.3 2500
+strong_g1_extreme_t0.6_s2 40 1 0.6 1 2 0.3 2500
+ultra_g1_spread_t0_s1 2 2 0 1 1 0.35 6500
+ultra_g1_spread_t0.3_s1 2 2 0.3 1 1 0.35 6500
+ultra_g1_moder_t0_s1 4 1.5 0 1 1 0.35 6500
+ultra_g1_moder_t0.3_s1 4 1.5 0.3 1 1 0.35 6500
+ultra_g1_high_t0_s1 15 1.5 0 1 1 0.35 6500
+ultra_g1_high_t0.3_s1 15 1.5 0.3 1 1 0.35 6500
+ultra_g1_extreme_t0_s1 40 1 0 1 1 0.35 6500
+ultra_g1_extreme_t0.3_s1 40 1 0.3 1 1 0.35 6500
+ultra_g1_spread_t0_s2 2 2 0 1 2 0.35 6500
+ultra_g1_spread_t0.3_s2 2 2 0.3 1 2 0.35 6500
+ultra_g1_moder_t0_s2 4 1.5 0 1 2 0.35 6500
+ultra_g1_moder_t0.3_s2 4 1.5 0.3 1 2 0.35 6500
+ultra_g1_high_t0_s2 15 1.5 0 1 2 0.35 6500
+ultra_g1_high_t0.3_s2 15 1.5 0.3 1 2 0.35 6500
+ultra_g1_extreme_t0_s2 40 1 0 1 2 0.35 6500
+ultra_g1_extreme_t0.3_s2 40 1 0.3 1 2 0.35 6500
+bimod0.2_med_g1_t0.3_s1 40 1 0.3 1 1 0.5 300 0.2
+bimod0.2_str_g1_t0.3_s1 40 1 0.3 1 1 0.3 2500 0.2
+bimod0.2_med_g1_t0.3_s2 40 1 0.3 1 2 0.5 300 0.2
+bimod0.2_str_g1_t0.3_s2 40 1 0.3 1 2 0.3 2500 0.2
+bimod0.4_med_g1_t0.3_s1 40 1 0.3 1 1 0.5 300 0.4
+bimod0.4_str_g1_t0.3_s1 40 1 0.3 1 1 0.3 2500 0.4
+bimod0.4_med_g1_t0.3_s2 40 1 0.3 1 2 0.5 300 0.4
+bimod0.4_str_g1_t0.3_s2 40 1 0.3 1 2 0.3 2500 0.4
+bimod0.6_med_g1_t0.3_s1 40 1 0.3 1 1 0.5 300 0.6
+bimod0.6_str_g1_t0.3_s1 40 1 0.3 1 1 0.3 2500 0.6
+bimod0.6_med_g1_t0.3_s2 40 1 0.3 1 2 0.5 300 0.6
+bimod0.6_str_g1_t0.3_s2 40 1 0.3 1 2 0.3 2500 0.6
