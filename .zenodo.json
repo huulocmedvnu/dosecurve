@@ -1,6 +1,6 @@
 {
   "title": "dosecurve: cross-fitted joint model of knockdown and response for single-cell CRISPRi perturbation screens",
-  "description": "Rust implementation of a cross-fitted joint model that labels perturbed genes as buffered or sensitive from single-cell CRISPRi screens, with reimplementations of two two-step methods, count-level simulations, an identifiability classifier and the analysis scripts of the manuscript 'Joint modelling of knockdown and response corrects spurious dose-response classes of single-cell CRISPRi perturbations'.",
+  "description": "Rust implementation of a cross-fitted joint model that labels perturbed genes as buffered or sensitive from single-cell CRISPRi screens, with reimplementations of two two-step methods, count-level simulations, an identifiability classifier and the analysis scripts of the manuscript 'Cross-fitted joint modelling reveals widespread buffering and spurious sensitivity in single-cell CRISPRi perturbations'.",
   "upload_type": "software",
   "license": "MIT",
   "creators": [
