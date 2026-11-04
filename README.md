@@ -1,5 +1,7 @@
 # dosecurve
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23936124.svg)](https://doi.org/10.5281/zenodo.23936124)
+
 Cross-fitted joint modelling of knockdown and transcriptional response in single-cell CRISPRi perturbation screens.
 
 `dosecurve` labels each perturbed gene as **buffered** (the transcriptional response appears only after expression of the gene has been strongly reduced) or **sensitive** (partial knockdown already produces most of the response), and reports whether the data of that perturbation allow such a label to be estimated reliably. It also contains reimplementations of two two-step methods (Song perturbation score and a Mixscale-style procedure) for side-by-side comparison.
@@ -98,3 +100,5 @@ MIT, see `LICENSE`.
 ## Citation
 
 Tran THL. Joint modelling of knockdown and response corrects spurious dose-response classes of single-cell CRISPRi perturbations. Manuscript, 2026.
+
+Software: Tran THL. dosecurve v1.0.0. Zenodo. 2026. https://doi.org/10.5281/zenodo.23936124
