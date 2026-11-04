@@ -6,7 +6,7 @@ Cross-fitted joint modelling of knockdown and transcriptional response in single
 
 `dosecurve` labels each perturbed gene as **buffered** (the transcriptional response appears only after expression of the gene has been strongly reduced) or **sensitive** (partial knockdown already produces most of the response), and reports whether the data of that perturbation allow such a label to be estimated reliably. It also contains reimplementations of two two-step methods (Song perturbation score and a Mixscale-style procedure) for side-by-side comparison.
 
-This repository accompanies the manuscript *Cross-fitted joint modelling reveals widespread buffering and spurious sensitivity in single-cell CRISPRi perturbations* (Tran, 2026).
+This repository accompanies the manuscript *Calibrated dose-response labels for single-cell CRISPRi perturbations by cross-fitted joint modelling* (Tran, 2026).
 
 ## Method in brief
 
@@ -99,6 +99,6 @@ MIT, see `LICENSE`.
 
 ## Citation
 
-Tran THL. Cross-fitted joint modelling reveals widespread buffering and spurious sensitivity in single-cell CRISPRi perturbations. Manuscript, 2026.
+Tran THL. Calibrated dose-response labels for single-cell CRISPRi perturbations by cross-fitted joint modelling. Manuscript, 2026.
 
 Software: Tran THL. dosecurve v1.0.0. Zenodo. 2026. https://doi.org/10.5281/zenodo.23936124
