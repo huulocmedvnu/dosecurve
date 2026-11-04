@@ -1,0 +1,15 @@
+{
+  "title": "dosecurve: cross-fitted joint model of knockdown and response for single-cell CRISPRi perturbation screens",
+  "description": "Rust implementation of a cross-fitted joint model that labels perturbed genes as buffered or sensitive from single-cell CRISPRi screens, with reimplementations of two two-step methods, count-level simulations, an identifiability classifier and the analysis scripts of the manuscript 'Joint modelling of knockdown and response corrects spurious dose-response classes of single-cell CRISPRi perturbations'.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Tran, Thai Huu Loc",
+      "affiliation": "Department of Obstetrics and Gynecology, Hong Hung Hospital, Tay Ninh City, Viet Nam",
+      "orcid": "0009-0009-1810-010X"
+    }
+  ],
+  "keywords": ["Perturb-seq", "CRISPR interference", "single-cell", "dose response", "gene dosage", "cross-fitting"],
+  "version": "1.0.0"
+}
